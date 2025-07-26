@@ -79,6 +79,7 @@ Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):
    ```
    
 8. **Hasil**
+
    Hasil dari menjalankan Plaso ini adalah file CSV yang berisi informasi mengenai sebuah aplikasi yang berbasis lini masa. Contoh hasil untuk aplikasi Discord dan Instagram pada iOS dapat dilihat pada folder output. 
    
 ---
