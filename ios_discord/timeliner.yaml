@@ -1,0 +1,7 @@
+---
+data_type: 'ios:discord:message'
+attribute_mappings:
+- name: 'sent_time'
+  description: 'Sent Time'
+place_holder_event: true
+---
